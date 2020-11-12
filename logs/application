@@ -1,0 +1,91 @@
+2020-11-12 03:09:39,479 INFO [main] [Animal.java:56] Lion'y не хватило 323 кКалорий, добавьте порцию
+2020-11-12 03:09:39,487 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 03:09:39,514 INFO [main] [Animal.java:51] Lion наелся, повторите через 5 часов
+2020-11-12 03:09:39,515 INFO [main] [Animal.java:47] Lion'a пока нельзя кормить
+2020-11-12 03:09:51,703 INFO [main] [Animal.java:56] Lion'y не хватило 323 кКалорий, добавьте порцию
+2020-11-12 03:09:51,710 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 03:09:51,712 INFO [main] [Animal.java:51] Lion наелся, повторите через 5 часов
+2020-11-12 03:09:51,712 INFO [main] [Animal.java:47] Lion'a пока нельзя кормить
+2020-11-12 03:09:51,713 INFO [main] [Animal.java:47] Lion'a пока нельзя кормить
+2020-11-12 03:09:51,713 INFO [main] [Animal.java:51] Elefant наелся, повторите через 5 часов
+2020-11-12 03:09:51,714 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 03:09:51,715 INFO [main] [Animal.java:51] Duck наелся, повторите через 5 часов
+2020-11-12 03:09:51,715 INFO [main] [Animal.java:56] Lion2'y не хватило 2249 кКалорий, добавьте порцию
+2020-11-12 03:09:51,715 ERROR [main] [WrongKillAnimalException.java:12] животное мертво
+2020-11-12 03:09:51,716 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 03:09:51,717 INFO [main] [CarnivorousCage.java:31] Lion живет теперь тут
+2020-11-12 03:09:51,718 INFO [main] [CarnivorousCage.java:31] Lion2 живет теперь тут
+2020-11-12 03:09:51,718 WARN [main] [CarnivorousCage.java:37] Это животное уже в клетке
+2020-11-12 03:09:51,718 INFO [main] [Animal.java:56] Lion2'y не хватило 1849 кКалорий, добавьте порцию
+2020-11-12 03:09:51,719 INFO [main] [Animal.java:47] Lion'a пока нельзя кормить
+2020-11-12 03:09:51,719 INFO [main] [CarnivorousCage.java:51] Lion2 выселен из клетки
+2020-11-12 03:09:51,719 INFO [main] [HerbivorousCage.java:28] Elefant живет теперь тут
+2020-11-12 03:09:51,720 ERROR [main] [WrongCageSizeException.java:12] Неподходящий размер клетки для этого животного
+2020-11-12 03:09:51,720 ERROR [main] [HerbivorousCage.java:38] Это животное мертво
+2020-11-12 03:09:51,720 INFO [main] [HerbivorousCage.java:28] Camel живет теперь тут
+2020-11-12 03:09:51,720 INFO [main] [HerbivorousCage.java:28] Duck2 живет теперь тут
+2020-11-12 03:31:42,743 INFO [main] [Animal.java:56] lion'y не хватило 3823 кКалорий, добавьте порцию
+2020-11-12 03:31:42,749 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 03:32:50,731 INFO [main] [Animal.java:60] lion'у многовато, уменьшите порцию на  977 кКалорий
+2020-11-12 03:33:14,295 INFO [main] [Animal.java:56] lion'y не хватило 1023 кКалорий, добавьте порцию
+2020-11-12 03:33:30,219 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 03:38:25,581 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 14:55:22,135 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:01:32,883 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:22:09,242 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:25:29,472 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:26:07,695 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:26:34,263 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:27:09,869 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:29:04,933 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:37:15,968 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:40:28,793 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:43:19,164 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 15:53:12,221 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 16:15:54,533 INFO [main] [Animal.java:51] lion наелся, повторите через 5 часов
+2020-11-12 17:03:18,493 INFO [main] [Animal.java:57] Lion'y не хватило 323 кКалорий, добавьте порцию
+2020-11-12 17:03:18,501 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 17:03:18,502 INFO [main] [Animal.java:52] Lion наелся, повторите через 5 часов
+2020-11-12 17:03:18,503 INFO [main] [Animal.java:48] Lion'a пока нельзя кормить
+2020-11-12 17:03:18,503 INFO [main] [Animal.java:48] Lion'a пока нельзя кормить
+2020-11-12 17:03:18,504 INFO [main] [Animal.java:52] Elefant наелся, повторите через 5 часов
+2020-11-12 17:03:18,504 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 17:03:18,505 INFO [main] [Animal.java:52] Duck наелся, повторите через 5 часов
+2020-11-12 17:03:18,505 INFO [main] [Animal.java:57] Lion2'y не хватило 2249 кКалорий, добавьте порцию
+2020-11-12 17:03:18,506 ERROR [main] [WrongKillAnimalException.java:12] животное мертво
+2020-11-12 17:03:18,506 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 17:03:18,508 INFO [main] [CarnivorousCage.java:30] Lion живет теперь тут
+2020-11-12 17:03:18,509 INFO [main] [CarnivorousCage.java:30] Lion2 живет теперь тут
+2020-11-12 17:03:18,509 WARN [main] [CarnivorousCage.java:36] Это животное уже в клетке
+2020-11-12 17:03:18,509 INFO [main] [Animal.java:57] Lion2'y не хватило 1849 кКалорий, добавьте порцию
+2020-11-12 17:03:18,510 INFO [main] [Animal.java:48] Lion'a пока нельзя кормить
+2020-11-12 17:03:18,510 INFO [main] [CarnivorousCage.java:50] Lion2 выселен из клетки
+2020-11-12 17:03:18,510 INFO [main] [HerbivorousCage.java:28] Elefant живет теперь тут
+2020-11-12 17:03:18,511 ERROR [main] [WrongCageSizeException.java:12] Неподходящий размер клетки для этого животного
+2020-11-12 17:03:18,511 ERROR [main] [HerbivorousCage.java:38] Это животное мертво
+2020-11-12 17:03:18,512 INFO [main] [HerbivorousCage.java:28] Camel живет теперь тут
+2020-11-12 17:03:18,512 INFO [main] [HerbivorousCage.java:28] Duck2 живет теперь тут
+2020-11-12 17:03:35,927 INFO [main] [Animal.java:52] lion наелся, повторите через 5 часов
+2020-11-12 22:25:49,065 INFO [main] [Animal.java:57] Lion'y не хватило 323 кКалорий, добавьте порцию
+2020-11-12 22:25:49,070 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 22:25:49,072 INFO [main] [Animal.java:52] Lion наелся, повторите через 5 часов
+2020-11-12 22:25:49,073 INFO [main] [Animal.java:48] Lion'a пока нельзя кормить
+2020-11-12 22:25:49,073 INFO [main] [Animal.java:48] Lion'a пока нельзя кормить
+2020-11-12 22:25:49,074 INFO [main] [Animal.java:52] Elefant наелся, повторите через 5 часов
+2020-11-12 22:25:49,074 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 22:25:49,075 INFO [main] [Animal.java:52] Duck наелся, повторите через 5 часов
+2020-11-12 22:25:49,076 INFO [main] [Animal.java:57] Lion2'y не хватило 2249 кКалорий, добавьте порцию
+2020-11-12 22:25:49,077 ERROR [main] [WrongKillAnimalException.java:12] животное мертво
+2020-11-12 22:25:49,077 WARN [main] [WrongFoodException.java:12] Неподходящая еда для данного типа животного
+2020-11-12 22:25:49,081 INFO [main] [CarnivorousCage.java:30] Lion живет теперь тут
+2020-11-12 22:25:49,081 INFO [main] [CarnivorousCage.java:30] Lion2 живет теперь тут
+2020-11-12 22:25:49,081 WARN [main] [CarnivorousCage.java:36] Это животное уже в клетке
+2020-11-12 22:25:49,082 INFO [main] [Animal.java:57] Lion2'y не хватило 1849 кКалорий, добавьте порцию
+2020-11-12 22:25:49,082 INFO [main] [Animal.java:48] Lion'a пока нельзя кормить
+2020-11-12 22:25:49,083 INFO [main] [CarnivorousCage.java:50] Lion2 выселен из клетки
+2020-11-12 22:25:49,084 INFO [main] [HerbivorousCage.java:28] Elefant живет теперь тут
+2020-11-12 22:25:49,084 ERROR [main] [WrongCageSizeException.java:12] Неподходящий размер клетки для этого животного
+2020-11-12 22:25:49,085 ERROR [main] [HerbivorousCage.java:38] Это животное мертво
+2020-11-12 22:25:49,086 INFO [main] [HerbivorousCage.java:28] Camel живет теперь тут
+2020-11-12 22:25:49,087 INFO [main] [HerbivorousCage.java:28] Duck2 живет теперь тут
+2020-11-12 22:26:38,883 INFO [main] [Animal.java:52] lion наелся, повторите через 5 часов

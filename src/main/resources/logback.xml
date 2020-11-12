@@ -1,0 +1,17 @@
+<configuration scan="true" scanPeriod="10 seconds">
+    <jmxConfigurator />
+
+    <appender name="APP_LOG" class="ch.qos.logback.core.FileAppender">
+        <file>logs/application</file>
+        <encoder>
+            <pattern>%date %level [%thread] [%file:%line] %msg%n</pattern>
+        </encoder>
+    </appender>
+
+
+
+    <root level="info">
+        <appender-ref ref="APP_LOG" />
+    </root>
+</configuration>
+
